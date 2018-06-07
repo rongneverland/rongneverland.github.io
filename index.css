@@ -1,4 +1,4 @@
-.wrap {
+.neverland.wrap {
     background: url(img/bk.png) no-repeat center center;
     background-size: contain;
     position: absolute;
@@ -10,7 +10,7 @@
     font-size: 90px;
     text-align: center;
 }
-.content {
+.neverland .content {
     color: #fff;
     width: 100%;
     position: absolute;

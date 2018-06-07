@@ -14,7 +14,12 @@
     color: #fff;
     width: 100%;
     position: absolute;
-    top: 40%;
+    top: 45%;
     left: 50%;
     transform: translate(-50%, -50%);
+}
+.neverland .linkstyle {
+    color: #fff;
+    font-style: italic;
+    text-decoration: none;
 }
